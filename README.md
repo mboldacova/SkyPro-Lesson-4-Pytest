@@ -1,5 +1,4 @@
-# SkyPro-Lesson-4-Pytest
-Test automation using Pytest
+# Test automation using Pytest
 
 **Дано:** разработчик написал полезную утилиту для обработки строк ([string_utils.py](https://github.com/mboldacova/SkyPro-Lesson-4-Pytest/blob/main/string_utils.py
 )), однако не уверен, что его алгоритмы покрывают все возможные сценарии.
